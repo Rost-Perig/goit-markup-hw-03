@@ -273,8 +273,12 @@ p {
   margin-left: 30px;
 }
 
-.team-title {
+.team-cell-text {
   padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.team-title {
   margin-bottom: 10px;
   font-weight: 500;
   font-size: 16px;
@@ -283,7 +287,6 @@ p {
 }
 
 .section-team-text {
-  padding-bottom: 30px;
   font-size: 16px;
   line-height: 19px;
   text-align: center;
