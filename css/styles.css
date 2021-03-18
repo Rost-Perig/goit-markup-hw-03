@@ -149,6 +149,8 @@ p {
 }
 
 .out-navi .link {
+  padding-top: 32px;
+  padding-bottom: 32px;
   color: var(--black-text);
   font-weight: 500;
   line-height: 1.14;
