@@ -160,7 +160,6 @@ p {
 .hero {
   padding-top: 200px;
   padding-bottom: 200px;
-  margin-top: 8px; /*в макете есть отступ 8px от тонкого нижнего бордера шапки до следующей секции*/
   background-color: var(--darck-bg);
   text-align: center;
 }
