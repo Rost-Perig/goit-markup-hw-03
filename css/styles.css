@@ -404,7 +404,9 @@ p {
 }
 
 .footer-navi .link {
-  margin-top: 9px;
   color: var(--white-opacity);
   line-height: 1.71;
+}
+.footer-navi li + li {
+  margin-top: 9px;
 }
