@@ -301,6 +301,12 @@ p {
   padding-bottom: 94px;
 }
 
+.section-pf .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .pf-filter {
   margin-bottom: 56px;
   display: flex;
@@ -309,14 +315,6 @@ p {
 
 .pf-filter .item + .item {
   margin-left: 8px;
-}
-
-.pf-filter .item:first-child {
-  margin-left: auto;
-}
-
-.pf-filter .item:last-child {
-  margin-right: auto;
 }
 
 /* button для портфолио-фильтра */
