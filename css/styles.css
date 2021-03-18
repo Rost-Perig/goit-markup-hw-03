@@ -376,16 +376,15 @@ p {
 /* футер */
 .site-footer {
   padding-top: 60px;
+  padding-bottom: 60px;
   background-color: var(--darck-bg);
 }
 
 .footer-navi {
   margin-top: 20px;
-  padding-bottom: 60px;
 }
 
 .footer-navi .goo-maps {
-  margin-bottom: 9px;
   color: var(--white-basis);
   line-height: 1.7;
 }
@@ -396,7 +395,7 @@ p {
 }
 
 .footer-navi .link {
-  margin-bottom: 9px;
+  margin-top: 9px;
   color: var(--white-opacity);
   line-height: 1.71;
 }
