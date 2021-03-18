@@ -155,7 +155,7 @@ p {
   letter-spacing: 0.02em;
 }
 
-.hero { 
+.hero {
   padding-top: 200px;
   margin-top: 8px;
   height: 600px;
@@ -185,7 +185,7 @@ p {
   width: 200px;
   height: 50px;
   border-radius: 4px;
-  border:transparent;
+  border: transparent;
   outline: none; /*убирает рамку при нажатии*/
   color: var(--white-basis);
   font-family: Roboto;
@@ -201,7 +201,7 @@ p {
 
 .button-hero:hover,
 .button-hero:focus {
-  background-color: #188CE8;
+  background-color: #188ce8;
   cursor: pointer;
 }
 
@@ -298,7 +298,7 @@ p {
   flex-wrap: wrap;
 }
 
-.pf-filter .item  + .item {
+.pf-filter .item + .item {
   margin-left: 8px;
 }
 
@@ -316,8 +316,8 @@ p {
   min-width: 73px;
   min-height: 38px;
   padding: 6px 22px;
-  border-radius: 2px;
-  border:transparent;
+  border-radius: 4px;
+  border: transparent;
   outline: none; /*убирает рамку при нажатии*/
   color: var(--black-title);
   font-family: Roboto;
@@ -348,7 +348,7 @@ p {
   margin-right: 0px;
 }
 
-.pf-list .item:nth-last-child(-n+3) {
+.pf-list .item:nth-last-child(-n + 3) {
   margin-bottom: 0px;
 }
 
@@ -386,7 +386,7 @@ p {
 
 .footer-navi .goo-maps {
   margin-bottom: 9px;
-  color: var(--white-basis);  
+  color: var(--white-basis);
   line-height: 1.7;
 }
 
