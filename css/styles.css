@@ -245,6 +245,10 @@ p {
   padding-bottom: 94px;
 }
 
+.work-list .item {
+  width: 370px;
+}
+
 .work-list .item + .item {
   margin-left: 30px;
 }
